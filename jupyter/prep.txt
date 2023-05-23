@@ -1,0 +1,11 @@
+requires: 
+scikit-learn
+flask
+wtforms
+
+
+
+$ flask run
+
+
+Pandas-part3 requires pandas 
